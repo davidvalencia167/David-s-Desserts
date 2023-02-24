@@ -1,0 +1,29 @@
+/*tarjeta 1*/
+.card-header-first{
+    margin-top: 40px;
+    height: 100px;
+    background: linear-gradient(-98deg,#BF019F,#F28A57);
+    box-shadow: 1px 5px 15px #a2a2a2;
+    
+}
+
+/*tarjeta 2*/
+.card-header-second{
+    box-shadow: 1px 7px 15px #a2a2a2;
+    margin: 25px 25px 0px 25px;
+    height: 120px;
+    background: linear-gradient(-98deg, #8E2DE2, #4A00E0);
+    
+}
+
+/*tarjeta 3*/
+.card-header-third{
+    margin-top: 25px;
+    height: 120px;
+    box-shadow: 1px 5px 15px #a2a2a2;
+    background: linear-gradient(-98deg, #11998e, #38ef7d);
+    
+}
+
+
+
